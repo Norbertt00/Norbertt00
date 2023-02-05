@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Norbertt00
 - 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning python and c#.
-- 📫 How to reach me discord: GameRNorbi#1929
+- 🌱 I’m currently learning python and java.
+- 📫 How to reach me discord: norbert#1929
